@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Pari Mittal 👋
 
-<!--
-**pariimittal/pariimittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year B.Tech CSE (AI) student at IGDTUW, Delhi
+💻 Currently sharpening my DSA fundamentals
+🎨 Freelance video editor & UI/UX designer on the side
+✈️ Big on travel, cooking, and exploring new things
+🧠 Always chasing the next creative or technical challenge
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm building
+- Working on projects spanning AI, hackathons, and design
+- Exploring how creativity and code intersect
+
+### 🌱 What I'm learning
+- Data Structures & Algorithms
+- AI/ML fundamentals
+
+### 🤝 Let's connect
+- 💼 [LinkedIn](https://linkedin.com/in/pari-mittal-495bb1376)
+
+---
+⭐️ From [pariimittal](https://github.com/pariimittal)
