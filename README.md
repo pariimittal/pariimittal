@@ -1,6 +1,6 @@
 # Hi, I'm Pari Mittal 👋
 
-🎓 First-year B.Tech CSE (AI) student at IGDTUW, Delhi
+🎓 Second-year B.Tech CSE (AI) student at IGDTUW, Delhi
 💻 Currently sharpening my DSA fundamentals
 🎨 Freelance video editor & UI/UX designer on the side
 ✈️ Big on travel, cooking, and exploring new things
